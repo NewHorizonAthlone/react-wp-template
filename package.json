@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "preview": "npm-run-all --parallel sync start",
-    "sync": "browser-sync start --proxy http://newhorizonathlone.local --files '**/*.php' 'build/*.js' 'build/*.css'",
+    "sync": "browser-sync start --proxy http://newhorizon.local --files '**/*.php' 'build/*.js' 'build/*.css'",
     "build": "wp-scripts build",
     "start": "wp-scripts start",
     "test": "echo \"Error: no test specified\" && exit 1"
