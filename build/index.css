@@ -3,7 +3,7 @@
   \*******************************************************************************************************************************************************************************************************************************************/
 .example-react-component {
   margin: 15px 0;
-  background-color: #2d7cf1;
+  background-color: pink;
   color: #FFF;
   padding: 20px;
   border-radius: 5px;
@@ -42,7 +42,7 @@ body {
 }
 
 a:link, a:visited {
-  color: #2d7cf1;
+  color: pink;
 }
 
 a:hover {
