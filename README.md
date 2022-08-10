@@ -1,7 +1,6 @@
 # New Horizon React WP template
-This repo will be used to help get developers up and running on how our React WP template (production) is built and then how to update utilizing learnt best practices.
-
-New Horizon React WP template baesd on [WP Themes twenty twenty](https://pcm.wordpress.org/themes/twentytwenty/)
+This repo will be used to help get developers up and running on how our React WP template (production) is built and teach how to update the right way, utilizing latest recommended tools and learnt best practices.
+New Horizon React WP template based on [GitHub Brad's boilerplate wordpress theme](https://github.com/LearnWebCode/brads-boilerplate-wordpress/tree/main/brads-boilerplate-theme) & [WP Themes twenty twenty](https://pcm.wordpress.org/themes/twentytwenty/)
 
 What we will be using:
 - [Node / NPM](https://nodejs.org/en/download/)
@@ -14,9 +13,6 @@ What we will be using:
 - `npm run preview`
 
 ## Learning resources
-
-### React
-- [React Router v6 getting started](https://reactrouter.com/docs/en/v6/getting-started/overview)
 
 ### Web Dev General
 - [HTML & CSS](https://internetingishard.com/).
@@ -34,3 +30,6 @@ What we will be using:
 - [https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [javascript.info](https://javascript.info/)
 - [JS references/](https://daveceddia.com/javascript-references/)
+
+### Unsplash thanks 
+<a href="https://unsplash.com/@nataliepedigo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Natalie Pedigo</a> on <a href="https://unsplash.com/s/photos/community?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
