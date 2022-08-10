@@ -49,4 +49,19 @@ a:hover {
   color: #ff0077;
 }
 
+.page-template-default {
+  color: orange;
+  background-color: green;
+}
+
+p {
+  color: black;
+  font-family: "SF UI Text", sans-serif;
+  background-color: red;
+}
+
+body {
+  color: blue;
+}
+
 /*# sourceMappingURL=index.css.map*/
