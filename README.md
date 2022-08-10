@@ -1,6 +1,8 @@
 # New Horizon React WP template
 This repo will be used to help get developers up and running on how our React WP template (production) is built and then how to update utilizing learnt best practices.
 
+New Horizon React WP template baesd on [WP Themes twenty twenty](https://pcm.wordpress.org/themes/twentytwenty/)
+
 What we will be using:
 - [Node / NPM](https://nodejs.org/en/download/)
 - [React](https://reactjs.org/)
