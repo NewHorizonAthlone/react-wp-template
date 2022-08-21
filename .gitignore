@@ -1,3 +1,5 @@
 .DS_Store
 node_modules/
 aws.md
+build/index.asset.php
+build
