@@ -6,6 +6,7 @@ What we will be using:
 - [Node / NPM](https://nodejs.org/en/download/)
 - [React](https://reactjs.org/)
 - [SASS](https://sass-lang.com/)
+- [Local WP](https://localwp.com/)
 - [Netlify](https://www.netlify.com/)
 
 ### Initial Set up
@@ -31,5 +32,5 @@ What we will be using:
 - [javascript.info](https://javascript.info/)
 - [JS references/](https://daveceddia.com/javascript-references/)
 
-### Unsplash thanks 
+### Thanks 
 <a href="https://unsplash.com/@nataliepedigo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Natalie Pedigo</a> on <a href="https://unsplash.com/s/photos/community?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
