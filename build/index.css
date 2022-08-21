@@ -49,4 +49,21 @@ a:hover {
   color: #ff0077;
 }
 
+.page-template-default {
+  color: black;
+  background-color: #fafbfd;
+}
+
+.entry-content p {
+  color: black;
+  font-family: "SF UI Text", sans-serif;
+  background-color: #fafbfd;
+}
+
+h2 {
+  font-size: 1.125rem;
+  line-height: 24px;
+  font-weight: 700;
+}
+
 /*# sourceMappingURL=index.css.map*/
