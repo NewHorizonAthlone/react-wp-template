@@ -3,3 +3,5 @@ node_modules/
 aws.md
 build/index.asset.php
 build
+./style.css
+style.css
