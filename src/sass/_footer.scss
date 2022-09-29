@@ -17,6 +17,7 @@
 		margin: 0.25em 0 0 0;
 	}
 	a {
+
 		text-decoration: none;
 		word-break: normal;
 		word-wrap: normal;
@@ -68,7 +69,7 @@ ul.footer-social {
 	border-width: 0;
 }
 #site-footer {
-	background-color: #fff;
+	background-color: green;
 	border-color: #dedfdf;
 	border-style: solid;
 	border-width: 0;
@@ -92,6 +93,7 @@ ul.footer-social {
 .footer-top-visible {
 	.footer-nav-widgets-wrapper {
 		margin-top: 5rem;
+		color: blue;
 	}
 }
 .footer-top-hidden {
@@ -124,6 +126,9 @@ ul.footer-social {
 	width: 100%;
 }
 .has-footer-menu {
+
+	color: purple;
+
 	.footer-social-wrapper {
 		flex-shrink: 0;
 		margin-left: 1rem;
