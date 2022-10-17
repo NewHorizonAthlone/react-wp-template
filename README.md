@@ -1,4 +1,4 @@
-# [Vite](https://vitejs.dev/) + [React](https://reactjs.org/) + [Redux](https://redux.js.org/) + [TS](https://www.typescriptlang.org/) boilerplate
+# [Vite](https://vitejs.dev/) + [React](https://reactjs.org/) + [Redux](https://redux.js.org/) + [TS](https://www.typescriptlang.org/) WP Template
 
 ## Install Run Test Build
 - `yarn`
