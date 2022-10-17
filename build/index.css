@@ -1,0 +1,165 @@
+/*!*******************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/sass/main.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************/
+.example-react-component {
+  margin: 15px 0;
+  background-color: red;
+  color: #FFF;
+  padding: 20px;
+  border-radius: 5px;
+}
+.example-react-component h1 {
+  font-weight: normal;
+  font-size: 1.2rem;
+  padding: 0;
+  margin: 0;
+}
+.example-react-component p {
+  margin: 0;
+  font-size: 0.88rem;
+}
+
+html,
+body {
+  background-color: #fff;
+}
+
+body {
+  color: #333;
+  font-family: sans-serif;
+  font-size: 0.9rem;
+}
+@media screen and (min-width: 520px) {
+  body {
+    padding: 20px;
+    font-size: 1.1rem;
+  }
+}
+@media screen and (min-width: 768px) {
+  body {
+    padding: 60px;
+    font-size: 1.2rem;
+  }
+}
+
+a:link,
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: #ff0077;
+}
+
+.page-template-default {
+  color: black;
+  background-color: #fafbfd;
+}
+
+.entry-content p {
+  color: black;
+  font-family: "SF UI Text", sans-serif;
+  background-color: #fafbfd;
+}
+.entry-content h2 {
+  font-size: 2.125rem;
+  line-height: 24px;
+  font-weight: 700;
+  color: blue;
+}
+
+/* New Horizon Athlone Site Footer --------------------------- */
+/* FOOTER WIDGETS */
+/* Footer Top -------------------------------- */
+/* FOOTER MENU */
+/* FOOTER SOCIAL */
+/* Footer Widgets ---------------------------- */
+/* Footer Bottom ----------------------------- */
+.footer-menu {
+  margin: -1.5rem 0 0 -3rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  letter-spacing: -0.0277em;
+}
+
+ul.footer-social {
+  margin: -1rem 0 0 -1rem;
+  margin: -0.5rem 0 0 -0.5rem;
+}
+
+.footer-widgets-wrapper {
+  margin-left: -6rem;
+  width: calc(100% + 6rem);
+}
+
+.footer-widgets {
+  margin-left: 6rem;
+}
+
+.footer-nav-widgets-wrapper {
+  background-color: #fff;
+  border-color: #dedfdf;
+  border-style: solid;
+  border-width: 0;
+  margin-top: 5rem;
+}
+
+#site-footer {
+  background-color: #fff;
+  border-color: #dedfdf;
+  border-style: solid;
+  border-width: 0;
+  padding: 3rem 0;
+  font-size: 1.6rem;
+  border-top-width: 0.1rem;
+}
+
+.footer-top {
+  padding: 3rem 0;
+  display: flex;
+  border-bottom: 0.1rem solid #dedfdf;
+  justify-content: space-between;
+}
+
+.footer-widgets-outer-wrapper {
+  padding: 3rem 0;
+  border-bottom: 0.1rem solid #dedfdf;
+}
+
+.footer-social-wrapper {
+  margin: 0;
+  width: 100%;
+  flex-shrink: 0;
+  margin-left: 1rem;
+  width: 50%;
+}
+
+.footer-social {
+  justify-content: flex-end;
+}
+
+.privacy-policy {
+  color: #6d6d6d;
+  margin: 1.2rem 0 0;
+}
+
+.powered-by-wordpress {
+  color: #6d6d6d;
+  display: none;
+  margin: 0 0 0 2.4rem;
+}
+
+.to-the-top {
+  color: #6d6d6d;
+}
+
+a.to-the-top {
+  margin-left: 2.4rem;
+  white-space: nowrap;
+}
+
+.to-the-top-long {
+  display: none;
+}
+
+/*# sourceMappingURL=index.css.map*/

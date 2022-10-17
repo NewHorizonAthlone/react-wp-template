@@ -1,36 +1,36 @@
-# New Horizon React WP template
-This repo will be used to help get developers up and running on how our React WP template (production) is built and teach how to update the right way, utilizing latest recommended tools and learnt best practices.
-New Horizon React WP template based on [GitHub Brad's boilerplate wordpress theme](https://github.com/LearnWebCode/brads-boilerplate-wordpress/tree/main/brads-boilerplate-theme) & [WP Themes twenty twenty](https://pcm.wordpress.org/themes/twentytwenty/)
+# [Vite](https://vitejs.dev/) + [React](https://reactjs.org/) + [Redux](https://redux.js.org/) + [TS](https://www.typescriptlang.org/) boilerplate
 
-What we will be using:
-- [Node / NPM](https://nodejs.org/en/download/)
-- [React](https://reactjs.org/)
-- [SASS](https://sass-lang.com/)
-- [Local WP](https://localwp.com/)
-- [Netlify](https://www.netlify.com/)
+[![Netlify
+Status](https://api.netlify.com/api/v1/badges/9c95d444-98af-4449-b67f-8d63cbce2135/deploy-status)](https://app.netlify.com/sites/vite-react-redux-ts-boilerplate/deploys)
 
-### Initial Set up
-- `npm install`
-- `npm run preview`
+## Install Run Test Build
+- `yarn`
+- `yarn dev`
+- `yarn run test`
+- `yarn build`
 
-## Learning resources
+This setup includes:
+* [Vite](https://vitejs.dev/)
+* [eslint](https://eslint.org/), [typescript-eslint](https://typescript-eslint.io/),
+[eslint-airbnb-config](https://github.com/airbnb/javascript), [prettier](https://prettier.io/)
+* [vitest](https://vitest.dev/), [jsdom](https://github.com/jsdom/jsdom),
+[@testing-library](https://testing-library.com/)
+* [react-router v6](https://reactrouter.com/en/main)
+* [Redux TS](https://redux.js.org/usage/usage-with-typescript)
+* [Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started)
+* [MUI](https://mui.com/)
+* [i18next](https://react.i18next.com/)
 
-### Web Dev General
-- [HTML & CSS](https://internetingishard.com/).
-- [ES6 syntax and features](https://www.taniarascia.com/es6-syntax-and-feature-overview/)
-- [array and object spread operators](https://javascript.info/rest-parameters-spread#spread-syntax)
-- [asynchronous JavaScript](https://javascript.info/promise-basics) and making [AJAX requests](https://javascript.info/fetch)
-- [RESTful API http status codes](https://restfulapi.net/http-status-codes/)
-- [MDN Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+## References
 
-### JS Useful links
-- [NodeSource using-npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
-- [CodeCademy learn-sass](https://www.codecademy.com/learn/learn-sass)
-- [StackOverflow](https://stackoverflow.com/a/11947816)
-- [https://developer.wordpress.org/rest-api/reference/posts/](https://developer.wordpress.org/rest-api/reference/posts/)
-- [https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-- [javascript.info](https://javascript.info/)
-- [JS references/](https://daveceddia.com/javascript-references/)
-
-### Thanks 
-<a href="https://unsplash.com/@nataliepedigo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Natalie Pedigo</a> on <a href="https://unsplash.com/s/photos/community?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* [Markus Oberlehner Jest & vitest](https://markus.oberlehner.net/blog/using-testing-library-jest-dom-with-vitest/)
+* [Testing Lib queries about priority](https://testing-library.com/docs/queries/about#priority)
+* [Kentcdodds common mistakes with react testing
+library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
+* [Medium strong typed i18n React](https://medium.com/geekculture/strong-typed-i18n-in-react-c43281de720c)
+* [https://reactjs.org/docs/accessibility.html](https://reactjs.org/docs/accessibility.html)
+* [openreplay understanding reacthooks container component
+pattern](https://blog.openreplay.com/understanding-the-container-component-pattern-with-react-hooks/)
+* [Valentinog jest coverage/](https://www.valentinog.com/blog/jest-coverage/)
+* [Profy React folder structure](https://profy.dev/article/react-folder-structure)
+* [OpenReplay container component pattern](https://blog.openreplay.com/understanding-the-container-component-pattern-with-react-hooks/)

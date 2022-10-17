@@ -1,25 +1,27 @@
-html, body {
-    background-color: #FFF;
+html,
+body {
+  background-color: #fff;
+}
+
+body {
+  color: #333;
+  font-family: sans-serif;
+  font-size: 0.9rem;
+  @include atSmall {
+    padding: 20px;
+    font-size: 1.1rem;
   }
-  
-  body {
-    color: #333;
-    font-family: sans-serif;
-    font-size: .9rem;
-    @include atSmall {
-      padding: 20px;
-      font-size: 1.1rem;
-    }
-    @include atMedium {
-      padding: 60px;
-      font-size: 1.2rem;
-    }
+  @include atMedium {
+    padding: 60px;
+    font-size: 1.2rem;
   }
-  
-  a:link, a:visited {
-    color: $primaryColor;
-  }
-  
-  a:hover {
-    color: $secondaryColor;
-  }
+}
+
+a:link,
+a:visited {
+  color: $primaryColor;
+}
+
+a:hover {
+  color: $secondaryColor;
+}
