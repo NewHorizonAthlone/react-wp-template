@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "sync": "--proxy http://newhorizonreacttemplate.local --files '**/*.php' 'build/*.js' 'build/*.css'",
-    "build": "tsc && vite build --watch",
+    "build": "wp-scripts build",
     "preview": "vite preview && vite build --watch",
     "start": "wp-scripts start",
     "test": "vitest --coverage"
